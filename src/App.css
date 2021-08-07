@@ -1,0 +1,58 @@
+.gjs-editor-cont {
+  height: calc(100vh - -30px) !important;
+}
+
+.gjs-pn-commands {
+  min-height: 40px;
+}
+
+#gjs-sm-float,
+.gjs-pn-views .fa-cog {
+  display: none;
+}
+
+.gjs-am-preview-cont {
+  height: 100px;
+  width: 100%;
+}
+
+.gjs-logo-version {
+  background-color: #756467;
+}
+
+.gjs-pn-panel.gjs-pn-views {
+  padding: 0;
+  border-bottom: none;
+}
+
+.gjs-pn-btn.gjs-pn-active {
+  box-shadow: none;
+}
+
+.gjs-pn-views .gjs-pn-btn {
+  margin: 0;
+  height: 40px;
+  padding: 10px;
+  width: 33.3333%;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+.CodeMirror {
+  min-height: 450px;
+  margin-bottom: 8px;
+}
+.grp-handler-close {
+  background-color: transparent;
+  color: #ddd;
+}
+
+.grp-handler-cp-wrap {
+  border-color: transparent;
+}
+
+.icons-flex {
+  background-size: 70% 65% !important;
+  height: 15px;
+  width: 17px;
+  opacity: 0.9;
+}
