@@ -2,6 +2,10 @@
 
 A drag and drop HTML element and css customization to ease users easier to generate HTML page.
 
+## Demo Link
+
+https://helptobuild-da991.web.app/
+
 ## How to Run
 
 ```bash
@@ -22,7 +26,3 @@ $ yarn build
 ```bash
 $ yarn deploy
 ```
-
-## Demo Link
-
-https://helptobuild-da991.web.app/
